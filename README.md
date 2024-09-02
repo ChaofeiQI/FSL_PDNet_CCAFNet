@@ -7,4 +7,4 @@
 <img src="./assets/CCAFNet_table.PNG" width="1200">
 </p>
 
-Our actual model records and pre-trained models: https://drive.google.com/drive/folders/1q5c8n9pPEVZDs_XKhhSCxJJfDxx6V2hH?usp=drive_link
+Our actual experimental records and pre-trained models: https://drive.google.com/drive/folders/1q5c8n9pPEVZDs_XKhhSCxJJfDxx6V2hH?usp=drive_link
